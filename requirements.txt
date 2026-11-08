@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-core
+transformers
+torch
+sentencepiece
+sacremoses
